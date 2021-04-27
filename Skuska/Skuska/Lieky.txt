@@ -1,0 +1,17 @@
+5,
+Betaloc,3.4,12
+Candezek,4.47,18
+zolofot,12.82,1
+Tramabene,1.52,84
+Rozex krem,3.28,4
+Prindex,0.35,28
+NOLIPREL,5.84,18
+Micardis,6.01,53
+LOKREN,4.62,4
+LUVERIS,15.39,61
+Ketonal DUO,1.72,7
+Kreon,7.54,28
+Ibutabs,1.43,15
+INDAP,0.13,103
+Enbrel,110.36,5
+Paretin,2.62,10
